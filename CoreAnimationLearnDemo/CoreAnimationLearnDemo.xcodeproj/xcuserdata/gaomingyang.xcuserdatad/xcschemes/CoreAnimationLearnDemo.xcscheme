@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5A08B1B124D93A9B00BD23E2"
+               BuildableName = "CoreAnimationLearnDemo.app"
+               BlueprintName = "CoreAnimationLearnDemo"
+               ReferencedContainer = "container:CoreAnimationLearnDemo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5A08B1B124D93A9B00BD23E2"
+            BuildableName = "CoreAnimationLearnDemo.app"
+            BlueprintName = "CoreAnimationLearnDemo"
+            ReferencedContainer = "container:CoreAnimationLearnDemo.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>

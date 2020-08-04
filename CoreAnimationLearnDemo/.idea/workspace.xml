@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34dd303b-594d-4653-b2af-155a9658fa41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo.xcodeproj/project.xcworkspace/xcuserdata/gaomingyang.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/ViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/ViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/hongbao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/jinbi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/zongzi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreAnimationLearnDemo/zongzi2.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_4F8D35D4-0F8A-4467-8860-DE78495AD250" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fchZCoYGcAUp6hTYJxTgxBz4NU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="CoreAnimationLearnDemo" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CoreAnimationLearnDemo" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CoreAnimationLearnDemo" TARGET_NAME="CoreAnimationLearnDemo" CONFIG_NAME="Debug" SCHEME_NAME="CoreAnimationLearnDemo" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="CoreAnimationLearnDemo" RUN_TARGET_NAME="CoreAnimationLearnDemo" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34dd303b-594d-4653-b2af-155a9658fa41" name="Default Changelist" comment="" />
+      <created>1596523341661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596523341661</updated>
+      <workItem from="1596523346295" duration="36000" />
+      <workItem from="1596523510992" duration="1289000" />
+      <workItem from="1596525992088" duration="1441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1313" height="325" key="GridCell.Tab.0.bottom" timestamp="1596527431835">
+      <screen x="0" y="23" width="2560" height="1334" />
+    </state>
+    <state width="1313" height="325" key="GridCell.Tab.0.bottom/0.23.2560.1334@0.23.2560.1334" timestamp="1596527431835" />
+    <state width="1313" height="325" key="GridCell.Tab.0.center" timestamp="1596527431835">
+      <screen x="0" y="23" width="2560" height="1334" />
+    </state>
+    <state width="1313" height="325" key="GridCell.Tab.0.center/0.23.2560.1334@0.23.2560.1334" timestamp="1596527431835" />
+    <state width="1313" height="325" key="GridCell.Tab.0.left" timestamp="1596527431835">
+      <screen x="0" y="23" width="2560" height="1334" />
+    </state>
+    <state width="1313" height="325" key="GridCell.Tab.0.left/0.23.2560.1334@0.23.2560.1334" timestamp="1596527431835" />
+    <state width="1313" height="325" key="GridCell.Tab.0.right" timestamp="1596527431835">
+      <screen x="0" y="23" width="2560" height="1334" />
+    </state>
+    <state width="1313" height="325" key="GridCell.Tab.0.right/0.23.2560.1334@0.23.2560.1334" timestamp="1596527431835" />
+  </component>
+</project>
